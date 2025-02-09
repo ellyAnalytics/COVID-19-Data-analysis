@@ -1,0 +1,1 @@
+This project analyzes COVID-19 data in the Columbia region of Italy, focusing on infection trends, mortality rates, and the impact of government interventions. The goal is to extract insights that can help policymakers and health officials make data-driven decisions.
